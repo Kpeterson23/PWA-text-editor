@@ -33,6 +33,7 @@ const matchCallback = ({ request }) => {
     request.destination === "worker"
   );
 };
+
 const cacheName = "asset-cache";
 registerRoute(
   matchCallback,
