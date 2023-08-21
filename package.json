@@ -15,6 +15,7 @@
   "author": " KYLER PETERSON",
   "license": "ISC",
   "dependencies": {
+    "@babel/plugin-proposal-object-rest-spread": "^7.20.7",
     "babel": "^6.23.0",
     "express": "^4.17.1",
     "idb": "^7.1.1",
