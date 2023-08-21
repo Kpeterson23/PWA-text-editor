@@ -21,7 +21,6 @@ Cloning the repository is the only required step for installation
 ## Usage
 
 ## Screenshot
-<img width="1920" alt="Screenshot 2023-08-20 at 19 04 43 (2)" src="https://github.com/Kpeterson23/PWA-text-editor/assets/124640874/01d173da-56d0-4830-9cd9-1d688e3e96e9">
 <img width="1470" alt="Screenshot 2023-08-20 at 19 04 43" src="https://github.com/Kpeterson23/PWA-text-editor/assets/124640874/59343958-76eb-4392-91d3-4126000c9f28">
 
 
